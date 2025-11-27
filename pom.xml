@@ -9,6 +9,14 @@
     <name>ch20-tdd</name>
     <url>http://maven.apache.org</url>
 
+    <properties>
+        <!-- SonarCloud configuration: replace the placeholders with your organization and (if needed) other Sonar properties -->
+        <sonar.organization>kevinxschulz_Phase5</sonar.organization>
+        <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+        <sonar.projectKey>kevinxschulz_Phase5</sonar.projectKey>
+        <sonar.token>3a2c7173e4d00a0dae944ab2c2321527bd136e3a</sonar.token>
+    </properties>
+
     <build>
         <plugins>
             <plugin>
