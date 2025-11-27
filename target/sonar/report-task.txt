@@ -1,0 +1,7 @@
+organization=kevinxschulz-1
+projectKey=kevinxschulz_Phase5
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.76854
+dashboardUrl=https://sonarcloud.io/dashboard?id=kevinxschulz_Phase5
+ceTaskId=AZrFUk6AHelbgUNFUW_b
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZrFUk6AHelbgUNFUW_b

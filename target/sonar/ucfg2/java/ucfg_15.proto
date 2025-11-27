@@ -1,0 +1,59 @@
+
+gcom.manning.junitbook.airport.EconomyFlight#removePassenger(Lcom/manning/junitbook/airport/Passenger;)Z…
+{/Users/kevin/Studium/4rdSemester/Laboratorio/ch20-tdd/Phase5/src/main/java/com/manning/junitbook/airport/EconomyFlight.java# #(""startingBlock*–
+2% %(…
+‚
+% %(
+%1java.util.Set"__id*[
+
+__unknown_file (?*=-
++com.manning.junitbook.airport.EconomyFlight"
+
+passengersêç
+% %(/
+%2boolean")java.util.Set#remove(Ljava/lang/Object;)Z*1
+
+__unknown_file (
+
+%1java.util.Set*R
+
+__unknown_file (6
+4
+	passenger'com.manning.junitbook.airport.Passenger2remove(Ljava/lang/Object;)"
+% %(0
+""*Ã
+3$ $(«¨
+$ $(
+%0boolean"0com.manning.junitbook.airport.Passenger#isVip()Z*R
+
+__unknown_file (6
+4
+	passenger'com.manning.junitbook.airport.Passenger2isVip()*
+2
+1*¾
+startingBlock#" #(7§
+¤
+" "(
+%3"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*R
+
+__unknown_file (6
+4
+	passenger'com.manning.junitbook.airport.Passengert
+r
+#- #(64
+	passenger'com.manning.junitbook.airport.Passenger"__annotation*"
+
+__unknown_file (
+
+%3*
+3*!
+1' '("
+' '(
+"":@
+## #(64
+	passenger'com.manning.junitbook.airport.PassengerB/-
++com.manning.junitbook.airport.EconomyFlightHX

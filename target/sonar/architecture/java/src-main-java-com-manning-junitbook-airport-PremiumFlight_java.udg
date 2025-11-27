@@ -1,0 +1,201 @@
+
+1.0kevinxschulz_Phase5JavaFrontend"1764247091836*java2.Bæ
+C
+>src/main/java/com/manning/junitbook/airport/PremiumFlight.java2
+	
+type3
+	
+MAIN4
+
+
+module-key5
+
+kevinxschulz_Phase56
+
+package8
+6
+1kevinxschulz_Phase5:com.manning.junitbook.airport9
+1
++com.manning.junitbook.airport.PremiumFlight11
+
+class12
+
+access13
+
+public14
+
+simple-name15
+
+PremiumFlight16
+*
+$com.manning.junitbook.airport.Flight18
+
+unknown19
+
+extends20
+
+
+uses21
+M
+Gcom.manning.junitbook.airport.PremiumFlight#<init>(Ljava/lang/String;)V23
+
+method24
+
+calls25
+
+
+references26
+j
+dcom.manning.junitbook.airport.PremiumFlight#addPassenger(Lcom/manning/junitbook/airport/Passenger;)Z28
+
+addPassenger29
+-
+'com.manning.junitbook.airport.Passenger31
+
+	has param32
+
+is type33
+6
+0com.manning.junitbook.airport.Passenger#isVip()Z35
+5
+/com.manning.junitbook.airport.Flight.passengers37
+m
+gcom.manning.junitbook.airport.PremiumFlight#removePassenger(Lcom/manning/junitbook/airport/Passenger;)Z39
+
+removePassenger40J#
+!
+1
+12
+
+3
+4
+
+5
+6Z
+
+7
+7982
+
+
+5
+6jÜ
+
+30
+303119
+>
+108
+101112 *
+1 (:7B
+
+
+13
+14
+
+
+15
+16
+
+36
+363719
+B
+22<
+222324 *
+1 (210:7B
+
+
+13
+14
+
+
+15
+16
+B
+38<
+383924 *
+1% %(210:7B
+
+
+13
+14
+
+
+15
+40
+
+17
+171819
+B
+27<
+272824 *
+1 (210:7B
+
+
+13
+14
+
+
+15
+29
+
+34
+343519rœ
+
+101720*
+1$ (*
+
+101721*
+1$ (*
+
+221025*
+1 (
+
+221726*
+1	 (
+
+221725*
+1	 (
+
+221725*
+1	 (
+
+273032*
+1! (*
+
+273033*
+1+ (4
+
+273021*
+1! (*
+
+273026*
+1 (
+
+273425*
+1 (
+
+273626*
+1   (
+
+273626*
+1   (
+
+383032*
+1&$ &(-
+
+383033*
+1&. &(7
+
+383021*
+1&$ &(-
+
+383026*
+1' '(
+
+383425*
+1' '(
+
+383626*
+1( ((
+
+383626*
+1( ((

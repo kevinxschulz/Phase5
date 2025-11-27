@@ -1,0 +1,26 @@
+
+Fcom.manning.junitbook.airport.Flight#getPassengersSet()Ljava/util/Set;~
+t/Users/kevin/Studium/4rdSemester/Laboratorio/ch20-tdd/Phase5/src/main/java/com/manning/junitbook/airport/Flight.java& &(*"1*…
+1' '(}
+{
+'+ '(5
+%0java.util.Set"__id*T
+
+__unknown_file (8*6&
+$com.manning.junitbook.airport.Flight"
+
+passengersÓ
+Ð
+' '(6
+%1java.util.Set"Ejava.util.Collections#unmodifiableSet(Ljava/util/Set;)Ljava/util/Set;*5
+
+__unknown_file ("
+java.util.Collections*1
+
+__unknown_file (
+
+%0java.util.Set"!
+' '(7
+
+%1java.util.SetB(&
+$com.manning.junitbook.airport.FlightH
